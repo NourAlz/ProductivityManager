@@ -1,3 +1,31 @@
+# Productivity Manager
+
+This project was to put the skills I learned throughout my internship into use. The project consists of creating a backend using SQL Management Studio and .Net Framework in c# to connect the database into, and create a controller with various API endpoints to serve the purpose of the project.
+
+The main functionalities of this project is having a todo list, a statistics page for the tasks, and finally a timer that keeps on working upon tab changing.
+
+The project is created using React, and styled using BootStarp 5.0 library.
+
+The files with the main code are:
+- public/index.html
+- src/App.js
+- src/API.js
+- src/All.js
+- src/TODO.js
+- src/Stat.js
+- src/Time.js
+
+The code is all documented for easier understanding for the lines written. Thank you for viewing.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
